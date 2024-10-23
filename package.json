@@ -68,7 +68,7 @@
     "vuepress": "^0.14.0",
     "webpack": "^4.19.1",
     "webpack-cli": "^3.1.1",
-    "webpack-dev-server": "^3.1.8"
+    "webpack-dev-server": "^5.1.0"
   },
   "files": [
     "dist/vue-i18n.js",
