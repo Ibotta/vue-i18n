@@ -13,7 +13,7 @@
     "rollup-plugin-commonjs": "^8.2.1",
     "rollup-plugin-node-resolve": "^3.0.0",
     "rollup-plugin-replace": "^2.0.0",
-    "rollup-plugin-vue": "^2.4.2",
+    "rollup-plugin-vue": "^6.0.0",
     "serve": "^6.1.0",
     "vue-i18n-extensions": "^0.1.0"
   },
